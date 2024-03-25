@@ -4,7 +4,7 @@ This website contains the list of all my projects ranging from web applications,
 
 ## Checkout :tada:
 
-The webpage is live with the help of GitHub pages and you can visit it here: https://main--jnv-project-hub.netlify.app/
+The webpage is live with the help of GitHub pages and you can visit it here: [here](https://main--jnv-project-hub.netlify.app/)
 
 ## Features
 
